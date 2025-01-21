@@ -3,8 +3,8 @@
 <h2>👨‍💻 Data Science & Analysis Projects:</h2>
 
 - <b> Construction of Prediction Models with US Technology Stock Volatility and News Sentiment Indicators (Time series, Machine Learning) </b>
-  - <a href="https://github.com/Danny410878010/Correlation-Analysis-of-U.S.-Technology-Stock-Volatility-and-News-Sentiment-Index"><img src="https://i.imgur.com/Cc4KE9g.png" height="50%" width="50%" alt="Disk Sanitization Steps"/></b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - <img src="https://i.imgur.com/Cc4KE9g.png" height="50%" width="50%" alt="Disk Sanitization Steps"/></b>
+  - View code on Github(https://github.com/Danny410878010/Correlation-Analysis-of-U.S.-Technology-Stock-Volatility-and-News-Sentiment-Index)
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
