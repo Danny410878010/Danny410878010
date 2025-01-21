@@ -6,6 +6,10 @@
   <b> <img src="https://i.imgur.com/Cc4KE9g.png" height="50%" width="50%" alt="Disk Sanitization Steps"/></b>
   - <b> [View code on Github](https://github.com/Danny410878010/Correlation-Analysis-of-U.S.-Technology-Stock-Volatility-and-News-Sentiment-Index) <b>
 
+- <b> Liquor sales perdiction by images' feature (Deep learning, Machine Learning Algorithm) </b>
+  <b> <img src="https://i.imgur.com/Cc4KE9g.png" height="50%" width="50%" alt="Disk Sanitization Steps"/></b>
+  - <b> [View code on Github](https://github.com/Danny410878010/Relationship-Between-Sales-of-Liquors-and-its-Image/tree/main) <b>
+
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
