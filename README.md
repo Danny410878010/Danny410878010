@@ -5,7 +5,7 @@
 - <b> In-Game Price Evaluation Model and Customize Recommendation System (Data Engineering, Deep learning, Machine Learning Algorithm, Regression Analysis, Visualization) </b>
 
   <b> <img src="https://i.imgur.com/RMVMI9x.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> </b>
-  - <b> [View code on Github](https://github.com/Danny410878010/Trend-Analysis-of-Game-Industry2024) <b>
+  - <b> [View code on Github](https://github.com/Danny410878010/In-Game-Item-Price-Setting-model-Simple-Customize-Recommendation-System) <b>
 
 - <b> 2024 Game Industry Insight and Trend Analysis (Regression Analysis, Visualization, Strategy making) </b>
 
