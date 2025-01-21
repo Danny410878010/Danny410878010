@@ -4,7 +4,7 @@
 
 - <b> 2024 Game Industry Insight and Trend Analysis (Regression Analysis, Visualization, Strategy making) </b>
   <b> <img src="https://i.imgur.com/0tEbfVS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> </b>
-  - <b> [View code on Github](https://github.com/Danny410878010/Correlation-Analysis-of-U.S.-Technology-Stock-Volatility-and-News-Sentiment-Index) <b>
+  - <b> [View code on Github](https://github.com/Danny410878010/Trend-Analysis-of-Game-Industry2024) <b>
 
 - <b> Predictiing Models with US Technology Stock Volatility and News Sentiment Indicators (Time series, Machine Learning) </b>
   <b> <img src="https://i.imgur.com/Cc4KE9g.png" height="50%" width="60%" alt="Disk Sanitization Steps"/> </b>
