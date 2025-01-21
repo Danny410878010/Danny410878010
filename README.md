@@ -3,8 +3,8 @@
 <h2>👨‍💻 Data Science & Analysis Projects:</h2>
 
 - <b> Construction of Prediction Models with US Technology Stock Volatility and News Sentiment Indicators (Time series, Machine Learning) </b>
-  - [Praciting DS & Algos in Python](https://github.com/Danny410878010/Correlation-Analysis-of-U.S.-Technology-Stock-Volatility-and-News-Sentiment-Index)</b>
-  - <img src="https://i.imgur.com/Cc4KE9g.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+  - [Praciting DS & Algos in Python]</b>
+  - <img src="https://i.imgur.com/Cc4KE9g.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>(https://github.com/Danny410878010/Correlation-Analysis-of-U.S.-Technology-Stock-Volatility-and-News-Sentiment-Index)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
