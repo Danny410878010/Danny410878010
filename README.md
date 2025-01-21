@@ -8,7 +8,7 @@
 
 - <b> Liquor sales perdiction by images' feature (Deep learning, Machine Learning Algorithm) </b>
 <hr>
-<b> <img src="https://i.imgur.com/dWg6Tau.png" height="50%" width="80%" alt="Disk Sanitization Steps"/> </b>
+  <b> <img src="https://i.imgur.com/dWg6Tau.png" height="50%" width="80%" alt="Disk Sanitization Steps"/> </b>
   - <b> [View code on Github](https://github.com/Danny410878010/Relationship-Between-Sales-of-Liquors-and-its-Image/tree/main) <b>
 
 <h2> 🤳 Connect with me:</h2>
