@@ -12,6 +12,11 @@
   <b> <img src="https://i.imgur.com/0tEbfVS.png" height="80%" width="90%" alt="Disk Sanitization Steps"/> </b>
   - <b> [View code on Github](https://github.com/Danny410878010/Trend-Analysis-of-Game-Industry2024) <b>
 
+- <b> Review Sentimental Analysis(NLTK, WordCloud library) </b>
+
+  <b> <img src=https://i.imgur.com/aYyThFB.png" height="55%" width="55%" alt="Disk Sanitization Steps"/> </b>
+  - <b> [View code on Github](https://github.com/Danny410878010/Review-Sentimental-Analysis) <b>
+
 - <b> Predictiing Models with US Technology Stock Volatility and News Sentiment Indicators (Time series, Machine Learning) </b>
   <b> <img src="https://i.imgur.com/Cc4KE9g.png" height="70%" width="80%" alt="Disk Sanitization Steps"/> </b>
   - <b> [View code on Github](https://github.com/Danny410878010/Correlation-Analysis-of-U.S.-Technology-Stock-Volatility-and-News-Sentiment-Index) <b>
