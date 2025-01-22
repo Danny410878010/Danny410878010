@@ -17,7 +17,7 @@
 <h2></h2>
 
 <h2> Review Sentimental Analysis(NLTK, WordCloud library) </h2>
-<b> A data-driven analysis of GTA5 player behavior patterns and sentiment, examining seasonal trends, player demographics, and key factors affecting user satisfaction through review analysis and playtime data. </b>
+<b> A data-driven analysis of player behavior patterns and sentiment, examining seasonal trends, player demographics, and key factors affecting user satisfaction through review analysis and playtime data. </b>
 
   <b> <img src="https://i.imgur.com/mjjxSmx.png" height="50%" width="50%" alt="Disk Sanitization Steps"/> </b>
   - <b> [View code on Github](https://github.com/Danny410878010/Review-Sentimental-Analysis) <b>
