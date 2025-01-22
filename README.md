@@ -2,7 +2,7 @@
 
 <h2>📊 Data Science & Analysis Projects:</h2>
 
-- <h2> In-Game Price Evaluation Model and Customize Recommendation System (Data Engineering, Deep learning, Machine Learning Algorithm, Regression Analysis, Visualization) 
+- <h2> In-Game Price Evaluation Model and Customize Recommendation System (Data Engineering, Deep learning, Machine Learning Algorithm, Regression Analysis, Visualization) </b>
   
   <b> <img src="https://i.imgur.com/VflJhOa.png" height="55%" width="55%" alt="Disk Sanitization Steps"/> <img src="https://i.imgur.com/i4GkTO1.png" height="40%" width="38%" alt="Disk Sanitization Steps"/> </b>
   - <b> [View code on Github](https://github.com/Danny410878010/In-Game-Item-Price-Setting-model-Simple-Customize-Recommendation-System) </b>
