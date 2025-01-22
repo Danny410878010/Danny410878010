@@ -11,6 +11,7 @@
 
 <h2> 2024 Game Industry Insight and Trend Analysis (Regression Analysis, Visualization, Strategy making) </h2>
 <b> A machine learning system that analyzes in-game vehicle pricing and recommends vehicles to players using PCA dimensionality reduction and BallTree nearest neighbor search. The system evaluates price fairness and provides personalized recommendations based on multiple vehicle attributes. </b>
+
   <b> <img src="https://i.imgur.com/0tEbfVS.png" height="70%" width="90%" alt="Disk Sanitization Steps"/> </b>
   - <b> [View code on Github](https://github.com/Danny410878010/Trend-Analysis-of-Game-Industry2024) <b>
 <h2></h2>
