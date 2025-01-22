@@ -2,7 +2,7 @@
 
 <h2>📊 Data Science & Analysis Projects:</h2>
 
-<h2> In-Game Price Evaluation Model and Customize Recommendation System (Data Engineering, Deep learning, Machine Learning Algorithm, Regression Analysis, Visualization) </h2>
+<h2> In-Game Price Evaluation and Customize Recommendation System (Data Engineering, Deep learning, Machine Learning Algorithm, Regression Analysis, Visualization) </h2>
 <b> A machine learning system that analyzes in-game vehicle pricing and recommends vehicles to players using PCA dimensionality reduction and BallTree nearest neighbor search. The system evaluates price fairness and provides personalized recommendations based on multiple vehicle attributes. </b>
 
   <b> <img src="https://i.imgur.com/VflJhOa.png" height="55%" width="55%" alt="Disk Sanitization Steps"/> <img src="https://i.imgur.com/i4GkTO1.png" height="40%" width="38%" alt="Disk Sanitization Steps"/> </b>
