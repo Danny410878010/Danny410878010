@@ -1,6 +1,6 @@
 <h1>Hi, I'm Daniel!
 
-<h2>👨‍💻 Data Science & Analysis Projects:</h2>
+<h2>📊 Data Science & Analysis Projects:</h2>
 
 - <b> In-Game Price Evaluation Model and Customize Recommendation System (Data Engineering, Deep learning, Machine Learning Algorithm, Regression Analysis, Visualization) </b>
 
