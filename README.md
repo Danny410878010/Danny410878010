@@ -14,7 +14,7 @@
 
 - <b> Review Sentimental Analysis(NLTK, WordCloud library) </b>
 
-  <b> <img src="https://i.imgur.com/aYyThFB.png" height="55%" width="80%" alt="Disk Sanitization Steps"/> </b>
+  <b> <img src="https://i.imgur.com/mjjxSmx.png" height="55%" width="80%" alt="Disk Sanitization Steps"/> </b>
   - <b> [View code on Github](https://github.com/Danny410878010/Review-Sentimental-Analysis) <b>
 
 - <b> Predictiing Models with US Technology Stock Volatility and News Sentiment Indicators (Time series, Machine Learning) </b>
