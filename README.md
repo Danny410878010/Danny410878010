@@ -7,7 +7,7 @@
 
   <b> <img src="https://i.imgur.com/VflJhOa.png" height="55%" width="55%" alt="Disk Sanitization Steps"/> <img src="https://i.imgur.com/i4GkTO1.png" height="40%" width="38%" alt="Disk Sanitization Steps"/> </b>
   - <b> [View code on Github](https://github.com/Danny410878010/In-Game-Item-Price-Setting-model-Simple-Customize-Recommendation-System) <b>
-
+<h2></h2>
 <h2> 2024 Game Industry Insight and Trend Analysis (Regression Analysis, Visualization, Strategy making) </h2>
 
   <b> <img src="https://i.imgur.com/0tEbfVS.png" height="70%" width="90%" alt="Disk Sanitization Steps"/> </b>
