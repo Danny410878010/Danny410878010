@@ -23,12 +23,12 @@
   - <b> [View code on Github](https://github.com/Danny410878010/Key-Factors-Impacting-Car-Battery-Consumption-) <b>
 
 - <b> Predicting Models with US Technology Stock Volatility and News Sentiment Indicators (Time series, Machine Learning) </b>
-  <b> <img src="https://i.imgur.com/wTzMC01.png" height="70%" width="70%" alt="Disk Sanitization Steps"/> </b>
+  <b> <img src="https://i.imgur.com/wTzMC01.png" height="50%" width="50%" alt="Disk Sanitization Steps"/> </b>
   - <b> [View code on Github](https://github.com/Danny410878010/Correlation-Analysis-of-U.S.-Technology-Stock-Volatility-and-News-Sentiment-Index) <b>
 
 - <b> Liquor sales perdiction by images' feature (Deep learning, Machine Learning Algorithm) </b>
 
-  <b> <img src="https://i.imgur.com/NReULIy.png" height="50%" width="50%" alt="Disk Sanitization Steps"/> </b>
+  <b> <img src="https://i.imgur.com/NReULIy.png" height="50%" width="80%" alt="Disk Sanitization Steps"/> </b>
   - <b> [View code on Github](https://github.com/Danny410878010/Relationship-Between-Sales-of-Liquors-and-its-Image/tree/main) <b>
 
 <h2> 📞 Connect with me:</h2>
