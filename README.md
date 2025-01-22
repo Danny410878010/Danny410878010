@@ -17,7 +17,7 @@
 <h2></h2>
 
 <h2> Review Sentimental Analysis(NLTK, WordCloud library) </h2>
-<b> A machine learning system that analyzes in-game vehicle pricing and recommends vehicles to players using PCA dimensionality reduction and BallTree nearest neighbor search. The system evaluates price fairness and provides personalized recommendations based on multiple vehicle attributes. </b>
+<b> The comments that received upvotes were selected, indicating that these comments hold greater reference value. The average sentiment score for upvoted comments is higher than the overall average sentiment score. Typically, algorithms prioritize highly upvoted comments, placing them at the top of the comment section, which increases their visibility to more players. This pattern also suggests that the game is heading in a favorable direction. </b>
 
   <b> <img src="https://i.imgur.com/mjjxSmx.png" height="50%" width="50%" alt="Disk Sanitization Steps"/> </b>
   - <b> [View code on Github](https://github.com/Danny410878010/Review-Sentimental-Analysis) <b>
