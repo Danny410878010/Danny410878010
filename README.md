@@ -17,7 +17,7 @@
   <b> <img src="https://i.imgur.com/mjjxSmx.png" height="55%" width="70%" alt="Disk Sanitization Steps"/> </b>
   - <b> [View code on Github](https://github.com/Danny410878010/Review-Sentimental-Analysis) <b>
 
-- <b> Predictiing Models with US Technology Stock Volatility and News Sentiment Indicators (Time series, Machine Learning) </b>
+- <b> Predicting Models with US Technology Stock Volatility and News Sentiment Indicators (Time series, Machine Learning) </b>
   <b> <img src="https://i.imgur.com/wTzMC01.png" height="70%" width="70%" alt="Disk Sanitization Steps"/> </b>
   - <b> [View code on Github](https://github.com/Danny410878010/Correlation-Analysis-of-U.S.-Technology-Stock-Volatility-and-News-Sentiment-Index) <b>
 
