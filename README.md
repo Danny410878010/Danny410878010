@@ -24,7 +24,7 @@
 <h2></h2>
     
 <h2> Key Factors Impacting Car Battery Consumption(Data Pipeline, Machine Learning Algorithm, Regression Analysis, Visualization) </h2>
-<b> A machine learning system that analyzes in-game vehicle pricing and recommends vehicles to players using PCA dimensionality reduction and BallTree nearest neighbor search. The system evaluates price fairness and provides personalized recommendations based on multiple vehicle attributes. </b>
+<b> A comprehensive analysis of electric vehicle battery consumption patterns, examining the relationships between State of Charge (SOC), distance traveled, temperature, and trip duration using statistical modeling and feature importance analysis. </b>
 
   <b> <img src="https://i.imgur.com/CvMQDpq.png" height="50%" width="50%" alt="Disk Sanitization Steps"/> </b>
   - <b> [View code on Github](https://github.com/Danny410878010/Key-Factors-Impacting-Car-Battery-Consumption-) <b>
