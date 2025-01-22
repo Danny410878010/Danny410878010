@@ -9,12 +9,12 @@
 
 - <b> 2024 Game Industry Insight and Trend Analysis (Regression Analysis, Visualization, Strategy making) </b>
 
-  <b> <img src="https://i.imgur.com/0tEbfVS.png" height="80%" width="90%" alt="Disk Sanitization Steps"/> </b>
+  <b> <img src="https://i.imgur.com/0tEbfVS.png" height="70%" width="90%" alt="Disk Sanitization Steps"/> </b>
   - <b> [View code on Github](https://github.com/Danny410878010/Trend-Analysis-of-Game-Industry2024) <b>
 
 - <b> Review Sentimental Analysis(NLTK, WordCloud library) </b>
 
-  <b> <img src="https://i.imgur.com/mjjxSmx.png" height="55%" width="80%" alt="Disk Sanitization Steps"/> </b>
+  <b> <img src="https://i.imgur.com/mjjxSmx.png" height="55%" width="70%" alt="Disk Sanitization Steps"/> </b>
   - <b> [View code on Github](https://github.com/Danny410878010/Review-Sentimental-Analysis) <b>
 
 - <b> Predictiing Models with US Technology Stock Volatility and News Sentiment Indicators (Time series, Machine Learning) </b>
@@ -23,7 +23,7 @@
 
 - <b> Liquor sales perdiction by images' feature (Deep learning, Machine Learning Algorithm) </b>
 
-  <b> <img src="https://i.imgur.com/NReULIy.png" height="20%" width="80%" alt="Disk Sanitization Steps"/> </b>
+  <b> <img src="https://i.imgur.com/NReULIy.png" height="50%" width="70%" alt="Disk Sanitization Steps"/> </b>
   - <b> [View code on Github](https://github.com/Danny410878010/Relationship-Between-Sales-of-Liquors-and-its-Image/tree/main) <b>
 
 <h2> 🤳 Connect with me:</h2>
