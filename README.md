@@ -24,7 +24,7 @@
 <h2></h2>
     
 <h2> Key Factors Impacting Car Battery Consumption(Data Pipeline, Machine Learning Algorithm, Regression Analysis, Visualization) </h2>
-<b> A comprehensive analysis of electric vehicle battery consumption patterns, examining the relationships between State of Charge (SOC), distance traveled, temperature, and trip duration using statistical modeling and feature importance analysis. </b>
+<b> A comprehensive analysis of the relationship between Tech Stock price volatility and news sentiment indicators, combining traditional time series models with sentiment analysis for improved stock price prediction. </b>
 
   <b> <img src="https://i.imgur.com/CvMQDpq.png" height="50%" width="50%" alt="Disk Sanitization Steps"/> </b>
   - <b> [View code on Github](https://github.com/Danny410878010/Key-Factors-Impacting-Car-Battery-Consumption-) <b>
