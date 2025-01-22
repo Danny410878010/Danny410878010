@@ -37,7 +37,7 @@
   - <b> [View code on Github](https://github.com/Danny410878010/Correlation-Analysis-of-U.S.-Technology-Stock-Volatility-and-News-Sentiment-Index) <b>
 <h2></h2>
   
-<h2> Liquor sales perdiction by images' feature (Deep learning, Machine Learning Algorithm) </h2>
+<h2> Liquor Sales perdiction by Images' Feature (Deep learning, Machine Learning Algorithm) </h2>
 <b> A machine learning system that analyzes in-game vehicle pricing and recommends vehicles to players using PCA dimensionality reduction and BallTree nearest neighbor search. The system evaluates price fairness and provides personalized recommendations based on multiple vehicle attributes. </b>
 
   <b> <img src="https://i.imgur.com/NReULIy.png" height="50%" width="80%" alt="Disk Sanitization Steps"/> </b>
