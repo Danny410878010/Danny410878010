@@ -14,7 +14,7 @@
 
 - <b> Review Sentimental Analysis(NLTK, WordCloud library) </b>
 
-  <b> <img src="https://i.imgur.com/mjjxSmx.png" height="55%" width="70%" alt="Disk Sanitization Steps"/> </b>
+  <b> <img src="https://i.imgur.com/mjjxSmx.png" height="50%" width="50%" alt="Disk Sanitization Steps"/> </b>
   - <b> [View code on Github](https://github.com/Danny410878010/Review-Sentimental-Analysis) <b>
 
 - <b> Key Factors Impacting Car Battery Consumption(Data Pipeline, Machine Learning Algorithm, Regression Analysis, Visualization) </b>
@@ -28,7 +28,7 @@
 
 - <b> Liquor sales perdiction by images' feature (Deep learning, Machine Learning Algorithm) </b>
 
-  <b> <img src="https://i.imgur.com/NReULIy.png" height="30%" width="70%" alt="Disk Sanitization Steps"/> </b>
+  <b> <img src="https://i.imgur.com/NReULIy.png" height="50%" width="50%" alt="Disk Sanitization Steps"/> </b>
   - <b> [View code on Github](https://github.com/Danny410878010/Relationship-Between-Sales-of-Liquors-and-its-Image/tree/main) <b>
 
 <h2> 📞 Connect with me:</h2>
