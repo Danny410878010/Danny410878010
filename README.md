@@ -38,7 +38,7 @@
 <h2></h2>
   
 <h2> Liquor Sales perdiction by Images' Feature (Deep learning, Machine Learning Algorithm) </h2>
-<b> A machine learning system that analyzes in-game vehicle pricing and recommends vehicles to players using PCA dimensionality reduction and BallTree nearest neighbor search. The system evaluates price fairness and provides personalized recommendations based on multiple vehicle attributes. </b>
+<b> A computer vision-based system that analyzes liquor product images to forecast sales by extracting key visual features and combining them with historical sales data using machine learning models. </b>
 
   <b> <img src="https://i.imgur.com/NReULIy.png" height="50%" width="80%" alt="Disk Sanitization Steps"/> </b>
   - <b> [View code on Github](https://github.com/Danny410878010/Relationship-Between-Sales-of-Liquors-and-its-Image/tree/main) <b>
