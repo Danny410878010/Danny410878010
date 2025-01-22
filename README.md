@@ -26,7 +26,7 @@
   <b> <img src="https://i.imgur.com/NReULIy.png" height="30%" width="70%" alt="Disk Sanitization Steps"/> </b>
   - <b> [View code on Github](https://github.com/Danny410878010/Relationship-Between-Sales-of-Liquors-and-its-Image/tree/main) <b>
 
-<h2> 🤳 Connect with me:</h2>
+<h2> 📞 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
