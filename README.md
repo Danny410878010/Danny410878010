@@ -19,7 +19,7 @@
 
 - <b> Key Factors Impacting Car Battery Consumption(Data Pipeline, Machine Learning Algorithm, Regression Analysis, Visualization) </b>
 
-  <b> <img src="https://i.imgur.com/CvMQDpq.png" height="70%" width="70%" alt="Disk Sanitization Steps"/> <img src="https://i.imgur.com/i4GkTO1.png" height="40%" width="37%" alt="Disk Sanitization Steps"/> </b>
+  <b> <img src="https://i.imgur.com/CvMQDpq.png" height="50%" width="50%" alt="Disk Sanitization Steps"/> </b>
   - <b> [View code on Github](https://github.com/Danny410878010/Key-Factors-Impacting-Car-Battery-Consumption-) <b>
 
 - <b> Predicting Models with US Technology Stock Volatility and News Sentiment Indicators (Time series, Machine Learning) </b>
