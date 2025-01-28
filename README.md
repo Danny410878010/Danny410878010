@@ -11,7 +11,7 @@
 
 <h2> 2024 Game Industry Insight and Trend Analysis (Regression Analysis, Visualization, Strategy making) </h2>
 <b> A comprehensive data analysis of video game sales patterns, examining the relationships between pricing, genres, playtime, and review scores to identify key success factors in the gaming market. The project uses statistical analysis to uncover market insights and provide strategic recommendations for game developers. </b>
-
+<h2></h2>
   <b> <img src="https://i.imgur.com/YarMd9S.png" height="70%" width="90%" alt="Disk Sanitization Steps"/> </b>
   - <b> [View code on Github](https://github.com/Danny410878010/Trend-Analysis-of-Game-Industry2024) <b>
 <h2></h2>
