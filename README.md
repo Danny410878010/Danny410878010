@@ -4,6 +4,7 @@
 
 <h2> In-Game Price Evaluation & Customize Recommendation System (Data Engineering, Deep learning, Machine Learning Algorithm, Regression Analysis, Visualization) </h2>
 <b> A machine learning system that analyzes in-game vehicle pricing and recommends vehicles to players using PCA dimensionality reduction and BallTree nearest neighbor search. The system evaluates price fairness and provides personalized recommendations based on multiple vehicle attributes. </b>
+<h2></h2>
 
   <b> <img src="https://i.imgur.com/VflJhOa.png" height="55%" width="55%" alt="Disk Sanitization Steps"/> <img src="https://i.imgur.com/i4GkTO1.png" height="40%" width="37%" alt="Disk Sanitization Steps"/> </b>
   - <b> [View code on Github](https://github.com/Danny410878010/In-Game-Item-Price-Setting-model-Simple-Customize-Recommendation-System) </b>
@@ -19,6 +20,7 @@
 
 <h2> Review Sentimental Analysis(NLTK, WordCloud library) </h2>
 <b> A data-driven analysis of player behavior patterns and sentiment, examining seasonal trends, player demographics, and key factors affecting user satisfaction through review analysis and playtime data. </b>
+<h2></h2>
 
   <b> <img src="https://i.imgur.com/mjjxSmx.png" height="50%" width="50%" alt="Disk Sanitization Steps"/> </b>
   - <b> [View code on Github](https://github.com/Danny410878010/Review-Sentimental-Analysis) <b>
@@ -26,6 +28,7 @@
     
 <h2> Key Factors Impacting Car Battery Consumption(Data Pipeline, Machine Learning Algorithm, Regression Analysis, Visualization) </h2>
 <b> A comprehensive analysis of the relationship between Tech Stock price volatility and news sentiment indicators, combining traditional time series models with sentiment analysis for improved stock price prediction. </b>
+<h2></h2>
 
   <b> <img src="https://i.imgur.com/CvMQDpq.png" height="50%" width="50%" alt="Disk Sanitization Steps"/> </b>
   - <b> [View code on Github](https://github.com/Danny410878010/Key-Factors-Impacting-Car-Battery-Consumption-) <b>
@@ -33,6 +36,7 @@
     
 <h2> Predicting Models with US Technology Stock Volatility and News Sentiment Indicators (Time series, Machine Learning) </h2>
 <b> A machine learning system that analyzes in-game vehicle pricing and recommends vehicles to players using PCA dimensionality reduction and BallTree nearest neighbor search. The system evaluates price fairness and provides personalized recommendations based on multiple vehicle attributes. </b>
+<h2></h2>
 
   <b> <img src="https://i.imgur.com/wTzMC01.png" height="50%" width="50%" alt="Disk Sanitization Steps"/> </b>
   - <b> [View code on Github](https://github.com/Danny410878010/Correlation-Analysis-of-U.S.-Technology-Stock-Volatility-and-News-Sentiment-Index) <b>
@@ -40,6 +44,7 @@
   
 <h2> Liquor Sales perdiction by Images' Feature (Deep learning, Machine Learning Algorithm) </h2>
 <b> A computer vision-based system that analyzes liquor product images to forecast sales by extracting key visual features and combining them with historical sales data using machine learning models. </b>
+<h2></h2>
 
   <b> <img src="https://i.imgur.com/NReULIy.png" height="50%" width="80%" alt="Disk Sanitization Steps"/> </b>
   - <b> [View code on Github](https://github.com/Danny410878010/Relationship-Between-Sales-of-Liquors-and-its-Image/tree/main) <b>
