@@ -1,4 +1,4 @@
-<h1>Hi, I'm Daniel!
+<h1> Hi, I'm Daniel! Welcome to my project portfolio. Here, you'll find my work on data science, deep learning, and analytics
 
 <h2>📊 Data Science & Analysis Projects:</h2>
 
