@@ -2,6 +2,14 @@
 
 <h2>📊 Data Science & Analysis Projects:</h2>
 
+<h2> Urban Heat Island (UHI) Prediction Using Satellite Imagery (Data Engineering, Deep learning, Machine Learning Algorithm, Visualization) </h2>
+<b> This project winning the grand prize in Info-Challenge 2025 in Univeristy of Martland. The project presents the approach to predicting Urban Heat Island (UHI) intensity using satellite image data and machine learning. By combining remote sensing spectral bands, engineered features, and advanced modeling techniques, we achieved a highly accurate prediction model with an **R² of 0.94** on testing data. </b>
+<h2></h2>
+
+  <b> <img src="https://i.imgur.com/VflJhOa.png" height="55%" width="55%" alt="Disk Sanitization Steps"/> <img src="https://i.imgur.com/i4GkTO1.png" height="40%" width="37%" alt="Disk Sanitization Steps"/> </b>
+  - <b> [View code on Github](https://github.com/Danny410878010/Urban_Heat_Island_Prediction_Using_Satellite_Imagery) </b>
+<h2></h2>
+
 <h2> In-Game Price Evaluation & Customize Recommendation System (Data Engineering, Deep learning, Machine Learning Algorithm, Regression Analysis, Visualization) </h2>
 <b> A machine learning system that analyzes in-game vehicle pricing and recommends vehicles to players using PCA dimensionality reduction and BallTree nearest neighbor search. The system evaluates price fairness and provides personalized recommendations based on multiple vehicle attributes. </b>
 <h2></h2>
