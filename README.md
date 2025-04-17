@@ -6,7 +6,7 @@
 <b> This project winning the grand prize in Info-Challenge 2025 in Univeristy of Martland. The project presents the approach to predicting Urban Heat Island (UHI) intensity using satellite image data and machine learning. By combining remote sensing spectral bands, engineered features, and advanced modeling techniques, we achieved a highly accurate prediction model with an **R² of 0.94** on testing data. </b>
 <h2></h2>
 
-  <b> <img src="https://i.imgur.com/VflJhOa.png" height="55%" width="55%" alt="Disk Sanitization Steps"/> <img src="https://i.imgur.com/i4GkTO1.png" height="40%" width="37%" alt="Disk Sanitization Steps"/> </b>
+  <b> <img src="https://i.imgur.com/VflJhOa.png" height="55%" width="55%" alt="Disk Sanitization Steps"/> <img src="https://ibb.co/sJC9GqTw" height="40%" width="37%" alt="Disk Sanitization Steps"/> </b>
   - <b> [View code on Github](https://github.com/Danny410878010/Urban_Heat_Island_Prediction_Using_Satellite_Imagery) </b>
 <h2></h2>
 
