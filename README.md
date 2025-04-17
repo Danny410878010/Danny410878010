@@ -3,7 +3,8 @@
 <h2>📊 Data Science & Analysis Projects:</h2>
 
 <h2> Urban Heat Island (UHI) Prediction Using Satellite Imagery (Data Engineering, Deep learning, Machine Learning Algorithm, Visualization) </h2>
-<b> This project winning the grand prize in Info-Challenge 2025 in Univeristy of Martland. The project presents the approach to predicting Urban Heat Island (UHI) intensity using satellite image data and machine learning. By combining remote sensing spectral bands, engineered features, and advanced modeling techniques, we achieved a highly accurate prediction model with an **R² of 0.94** on testing data. </b>
+<b> This project was awarded the Grand Prize at the 2025 Info Challenge at the University of Maryland.
+It showcases our approach to predicting Urban Heat Island (UHI) intensity using satellite imagery and machine learning. By leveraging remote sensing spectral bands, advanced feature engineering, and cutting-edge modeling techniques, we developed a highly accurate prediction model that achieved an R² of 0.94 on the testing data. </b>
 <h2></h2>
 
   <b> <img src="https://imgur.com/tFdCIWU.png" height="45%" width="45%" alt="Disk Sanitization Steps"/> <img src="https://imgur.com/Dj7Itt5.png" height="37%" width="34%" alt="Disk Sanitization Steps"/> </b>
