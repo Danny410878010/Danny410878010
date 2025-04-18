@@ -2,6 +2,15 @@
 
 <h2>📊 Data Science & Analysis Projects:</h2>
 
+<h2> Multi-type File Generator For LLM Traning (LLM, Deep learning, Machine Learning Algorithm, Web Design, Visualization) </h2>
+<b> Designed specifically for Capital Area Food Bank (CAFB), Agrorithm Farm is an interactive Streamlit-based application that allows users (CAFB staff) to generate high-quality content such as: Blog posts
+PowerPoint presentations, YouTube transcripts, Grant proposals, Marketing collateral. It supports file uploads, URL ingestion, and manual prompts. The app combines Large Language Models (LLMs), image captioning, Retrieval-Augmented Generation (RAG), and dynamic slide generation into a seamless workflow. </b>
+<h2></h2>
+
+  <b> <img src="https://imgur.com/tFdCIWU.png" height="45%" width="45%" alt="Disk Sanitization Steps"/> <img src="https://imgur.com/Tgq6K9z.png" height="37%" width="34%" alt="Disk Sanitization Steps"/> </b>
+  - <b> [View code on Github](https://github.com/Danny410878010/Urban_Heat_Island_Prediction_Using_Satellite_Imagery) </b>
+<h2></h2>
+
 <h2> Urban Heat Island (UHI) Prediction Using Satellite Imagery (Data Engineering, Deep learning, Machine Learning Algorithm, Visualization) </h2>
 <b> This project was awarded the Grand Prize at the 2025 Info Challenge at the University of Maryland.
 It showcases our approach to predicting Urban Heat Island (UHI) intensity using satellite imagery and machine learning. By leveraging remote sensing spectral bands, advanced feature engineering, and cutting-edge modeling techniques, we developed a highly accurate prediction model that achieved an R² of 0.94 on the testing data. </b>
