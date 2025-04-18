@@ -8,7 +8,7 @@ PowerPoint presentations, YouTube transcripts, Grant proposals, Marketing collat
 <h2></h2>
 
   <b> <img src="https://imgur.com/sMxZvQc.png" height="45%" width="45%" alt="Disk Sanitization Steps"/> <img src="https://imgur.com/Tgq6K9z.png" height="37%" width="34%" alt="Disk Sanitization Steps"/> </b>
-  - <b> [View code on Github](https://github.com/Danny410878010/Urban_Heat_Island_Prediction_Using_Satellite_Imagery) </b>
+  - <b> [View code on Github](https://github.com/hsu-github/AgrorithmFarm) </b>
 <h2></h2>
 
 <h2> Urban Heat Island (UHI) Prediction Using Satellite Imagery (Data Engineering, Deep learning, Machine Learning Algorithm, Visualization) </h2>
