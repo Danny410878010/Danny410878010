@@ -10,12 +10,12 @@ It showcases our approach to predicting Urban Heat Island (UHI) intensity using 
   - <b> [View code on Github](https://github.com/Danny410878010/Urban_Heat_Island_Prediction_Using_Satellite_Imagery) </b>
 <h2></h2>
 
-<h2> In-Game Price Evaluation & Customize Recommendation System (Data Engineering, Deep learning, Machine Learning Algorithm, Regression Analysis, Visualization) </h2>
-<b> A machine learning system that analyzes in-game vehicle pricing and recommends vehicles to players using PCA dimensionality reduction and BallTree nearest neighbor search. The system evaluates price fairness and provides personalized recommendations based on multiple vehicle attributes. </b>
+<h2> 2024 Game Industry Insight and Trend Analysis (Regression Analysis, Visualization, Strategy making) </h2>
+<b> A comprehensive data analysis of video game sales patterns, examining the relationships between pricing, genres, playtime, and review scores to identify key success factors in the gaming market. The project uses statistical analysis to uncover market insights and provide strategic recommendations for game developers. </b>
 <h2></h2>
 
-  <b> <img src="https://i.imgur.com/VflJhOa.png" height="55%" width="55%" alt="Disk Sanitization Steps"/> <img src="https://i.imgur.com/i4GkTO1.png" height="40%" width="37%" alt="Disk Sanitization Steps"/> </b>
-  - <b> [View code on Github](https://github.com/Danny410878010/In-Game-Item-Price-Setting-model-Simple-Customize-Recommendation-System) </b>
+  <b> <img src="https://i.imgur.com/YarMd9S.png" height="70%" width="90%" alt="Disk Sanitization Steps"/> </b>
+  - <b> [View code on Github](https://github.com/Danny410878010/Trend-Analysis-of-Game-Industry2024) <b>
 <h2></h2>
 
 <h2> Multi-type File Generator For LLM Traning (LLM, Deep learning, Machine Learning Algorithm, Web Design, Visualization) </h2>
@@ -27,12 +27,12 @@ PowerPoint presentations, YouTube transcripts, Grant proposals, Marketing collat
   - <b> [View code on Github](https://github.com/hsu-github/AgrorithmFarm) </b>
 <h2></h2>
 
-<h2> 2024 Game Industry Insight and Trend Analysis (Regression Analysis, Visualization, Strategy making) </h2>
-<b> A comprehensive data analysis of video game sales patterns, examining the relationships between pricing, genres, playtime, and review scores to identify key success factors in the gaming market. The project uses statistical analysis to uncover market insights and provide strategic recommendations for game developers. </b>
+<h2> In-Game Price Evaluation & Customize Recommendation System (Data Engineering, Deep learning, Machine Learning Algorithm, Regression Analysis, Visualization) </h2>
+<b> A machine learning system that analyzes in-game vehicle pricing and recommends vehicles to players using PCA dimensionality reduction and BallTree nearest neighbor search. The system evaluates price fairness and provides personalized recommendations based on multiple vehicle attributes. </b>
 <h2></h2>
 
-  <b> <img src="https://i.imgur.com/YarMd9S.png" height="70%" width="90%" alt="Disk Sanitization Steps"/> </b>
-  - <b> [View code on Github](https://github.com/Danny410878010/Trend-Analysis-of-Game-Industry2024) <b>
+  <b> <img src="https://i.imgur.com/VflJhOa.png" height="55%" width="55%" alt="Disk Sanitization Steps"/> <img src="https://i.imgur.com/i4GkTO1.png" height="40%" width="37%" alt="Disk Sanitization Steps"/> </b>
+  - <b> [View code on Github](https://github.com/Danny410878010/In-Game-Item-Price-Setting-model-Simple-Customize-Recommendation-System) </b>
 <h2></h2>
 
 <h2> Review Sentimental Analysis(NLTK, WordCloud library) </h2>
